@@ -1,7 +1,7 @@
 # AniFormer
 
-This is the PyTorch implementation of our BMVC 2021 paper AniFormer: Data-driven 3D Animation withTransformer
-[Haoyu Chen](https://scholar.google.com/citations?user=QgbraMIAAAAJ&hl=en), [Hao Tang](https://scholar.google.com/citations?user=9zJkeEMAAAAJ&hl=en), [Guoying Zhao](https://scholar.google.com/citations?user=hzywrFMAAAAJ&hl=en). <br>
+This is the PyTorch implementation of our BMVC 2021 paper “AniFormer: Data-driven 3D Animation with Transformer“
+[Haoyu Chen](https://scholar.google.com/citations?user=QgbraMIAAAAJ&hl=en), [Hao Tang](https://scholar.google.com/citations?user=9zJkeEMAAAAJ&hl=en), [Nicu Sebe](https://scholar.google.it/citations?user=tNtjSewAAAAJ&hl=en), [Guoying Zhao](https://scholar.google.com/citations?user=hzywrFMAAAAJ&hl=en). <br>
 
 <img src="Capture.PNG" width="400" height="300">
 
